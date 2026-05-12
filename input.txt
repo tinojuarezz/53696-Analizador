@@ -1,0 +1,5 @@
+imprimir("inicio");
+mientras falso {
+    imprimir("no entra");
+}
+imprimir("fin");
